@@ -37,7 +37,7 @@ Modal does not include any events.
 
 ### Metrics
 
-There are no metrics collected for this integration.
+Modal publishes container metrics to Datadog.
 
 
 ## Uninstallation
